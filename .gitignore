@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ﻿.idea/
 *.iml
 out/
+=======
+.idea/
+*.iml
+out/
+target/
+>>>>>>> d14ac19a888976fea648574aa3511b45a9082a0c
 *.class
